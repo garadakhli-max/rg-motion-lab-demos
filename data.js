@@ -129,5 +129,25 @@ window.CONCEPTS = [
     template:"soft-groom", mark:"groomed by ariana.", eyebrow:"TIGARD · OREGON", title:"A little love, a lovely groom.",
     description:"An original organic and friendly one-to-one dog grooming design study.",
     image:"photo-1517849845537-4d257902454a", color:"#f0d2ce", accent:"#59786a"
+  },
+  {
+    id:"louis-auto-detailing-new-jersey", name:"Loui's Auto Detailing, LLC", city:"Runnemede", country:"United States", code:"US", category:"Auto Detailing",
+    path:"demos/louis-auto-detailing-new-jersey.html", mark:"LOUI'S DETAILING", image:"photo-1492144534655-ae79c964c9d7"
+  },
+  {
+    id:"d-and-d-professional-services-hickory", name:"D & D Professional Services, LLC", city:"Hickory", country:"United States", code:"US", category:"Cleaning",
+    path:"demos/d-and-d-professional-services-hickory.html", mark:"D & D", image:"photo-1600585154340-be6161a56a0c"
+  },
+  {
+    id:"josh-cossette-carpet-cleaning-connecticut", name:"Josh Cossette Carpet Cleaning LLC", city:"Meriden", country:"United States", code:"US", category:"Carpet Cleaning",
+    path:"demos/josh-cossette-carpet-cleaning-connecticut.html", mark:"JOSH COSSETTE", image:"photo-1600585154340-be6161a56a0c"
+  },
+  {
+    id:"cleaning-on-demand-charlotte", name:"Cleaning on Demand Janitorial Service, LLC", city:"Charlotte", country:"United States", code:"US", category:"Janitorial",
+    path:"demos/cleaning-on-demand-charlotte.html", mark:"CLEANING ON DEMAND", image:"photo-1497366811353-6870744d04b2"
+  },
+  {
+    id:"america-shines-cleaning-maryland", name:"America Shines Cleaning Service, LLC", city:"Joppatowne", country:"United States", code:"US", category:"Cleaning",
+    path:"demos/america-shines-cleaning-maryland.html", mark:"AMERICA SHINES", image:"photo-1600585152915-d208bec867a1"
   }
 ];
