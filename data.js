@@ -149,5 +149,9 @@ window.CONCEPTS = [
   {
     id:"america-shines-cleaning-maryland", name:"America Shines Cleaning Service, LLC", city:"Joppatowne", country:"United States", code:"US", category:"Cleaning",
     path:"demos/america-shines-cleaning-maryland.html", mark:"AMERICA SHINES", image:"photo-1600585152915-d208bec867a1"
+  },
+  {
+    id:"pain-dor-bakery-michigan", name:"Pain D'or Bakery LLC", city:"Sterling Heights", country:"United States", code:"US", category:"Mediterranean Bakery",
+    path:"demos/pain-dor-bakery-michigan.html", mark:"PAIN D'OR", image:"photo-1509440159596-0249088772ff"
   }
 ];
